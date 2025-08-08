@@ -25,7 +25,7 @@ Bit House es una aplicación web diseñada para la gestión de productos. Permit
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone <url-del-repositorio>
+    git clone https://github.com/Etiketaa/bit-house2.git
     ```
 2.  **Configurar el entorno:**
     -   Asegúrate de tener un servidor web como XAMPP o WAMP instalado.
